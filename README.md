@@ -41,13 +41,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/olaniyan-abiodun-959974298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="[https://twitter.com/yourhandle](https://x.com/dev_abyte?t=5jjK5N2eEfGKLKxykpA8GQ&s=09)" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:abbeyzino51@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://yourportfolio.com" target="_blank">
